@@ -1,1 +1,13 @@
-/* Test */
+
+/* Current day selection */
+.calendar-month-day-box-current-month[relation="today"] {
+    background-color: #2471a3 !important;
+    color: #fff !important;
+  }
+
+.calendar-month-day-label {
+    font-size: 48px !important;
+    color: #7f8c8d !important;
+    background-color: none !important;
+  }
+  
