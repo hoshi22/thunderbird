@@ -21,3 +21,8 @@
 .calendar-month-day-box-day-off {
   background: #f2f3f4 !important;
 }
+
+.calendar-color-box {
+  border: none !important;
+  box-shadow: none !important;
+}
