@@ -4,12 +4,20 @@
     color: #fff !important;
   }
 
-  .calendar-month-day-box-current-month[relation="today"] {
+.calendar-month-day-box-current-month[relation="today"] {
     background-color: #2471a3 !important;
   }
 
 .calendar-month-day-label {
-    font-size: 48px !important;
+    font-size: 28px !important;
     color: #7f8c8d !important;
     background-color: none !important;
   }
+
+.calendar-month-day-box-other-month {
+  background: none !important;
+}
+
+.calendar-month-day-box-day-off {
+  background: #f2f3f4 !important;
+}
